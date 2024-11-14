@@ -9,18 +9,27 @@
 ## 📘 My top open source projects
 
 <p align="left">
-    <a href="https://github.com/dinagalevska/recipes-chat-bot">
-        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=recipes-chat-bot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg">
-    </a>
-    <p>AI-powered recipes chat bot with FastAPI</p>
-    <a href="https://github.com/dinagalevska/cryptocurrency-insights">
-        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dinagalevska&repo=cryptocurrency-insights&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges">
-    </a>
-    <a href="https://github.com/dinagalevska/DrugCombDeepLearning">
-        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dinagalevska&repo=DrugCombDeepLearning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
-    </a>
-    <p>Deep learning for drug combination prediction, powered by Graph Neural Networks</p>
+  <a href="https://github.com/dinagalevska/recipes-chat-bot">
+    <div style="display: inline-block; width: 25%; background-color: #1F222E; padding: 15px; border-radius: 8px; margin: 10px; text-align: center;">
+      <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=recipes-chat-bot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="recipes-chat-bot">
+      <p style="color: white; font-size: 14px; margin-top: 10px;">AI-powered recipes chat bot with FastAPI and Docker for seamless interactions and easy deployment.</p>
+    </div>
+  </a>
+
+  <a href="https://github.com/dinagalevska/cryptocurrency-insights">
+    <div style="display: inline-block; width: 25%; background-color: #1F222E; padding: 15px; border-radius: 8px; margin: 10px; text-align: center;">
+      <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dinagalevska&repo=cryptocurrency-insights&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="cryptocurrency-insights">
+    </div>
+  </a>
+
+  <a href="https://github.com/dinagalevska/DrugCombDeepLearning">
+    <div style="display: inline-block; width: 25%; background-color: #1F222E; padding: 15px; border-radius: 8px; margin: 10px; text-align: center;">
+      <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dinagalevska&repo=DrugCombDeepLearning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="DrugCombDeepLearning">
+      <p style="color: white; font-size: 14px; margin-top: 10px;">Deep learning for drug combination prediction, powered by Graph Neural Networks.</p>
+    </div>
+  </a>
 </p>
+
 
 
 <p align="left">
