@@ -1,7 +1,4 @@
-<a href="">
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=dinagalevska&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=300" />
-</a>
-<a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com?user=dinagalevska&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<img src="https://github.com/aenq/aenq/blob/main/welcome-black-min.gif" alt="Welcome">
 
 ## Skills
 
@@ -17,6 +14,7 @@
 
 <p align="left">
   <a href="https://github.com/dinagalevska?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/Explore%20My%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white&color=gradient&labelColor=4C9AFF"/>
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/Explore%20My%20Repos-FF5C8D?style=for-the-badge&logo=github&logoColor=white&color=gradient&labelColor=FF416C"/>
   </a>
 </p>
+
