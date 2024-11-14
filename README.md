@@ -9,12 +9,9 @@
 ## 📘 My top open source projects
 
 <p align="left">
-    <figure>
     <a href="https://github.com/dinagalevska/recipes-chat-bot">
-        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=recipes-chat-bot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="recipes-chat-bot">
+        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=recipes-chat-bot&&show_icons=true" alt="readme-typing-svg">
     </a>
-    <figcaption>My Recipes Chat Bot</figcaption>
-</figure>
     <a href="https://github.com/dinagalevska/cryptocurrency-insights">
         <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dinagalevska&repo=cryptocurrency-insights&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges">
     </a>
