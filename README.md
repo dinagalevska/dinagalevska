@@ -16,7 +16,7 @@
         <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dinagalevska&repo=cryptocurrency-insights&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&show_icons=true" alt="custom-icon-badges">
     </a>
     <a href="https://github.com/dinagalevska/DrugCombDeepLearning">
-        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=recipes-chat-bot&theme=react&bg_color=1F222E&show_icons=true&title_color=F85D7F&hide_border=true" alt="readme-typing-svg">
+        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=DrugCombDeepLearning&theme=react&bg_color=1F222E&show_icons=true&title_color=F85D7F&hide_border=true" alt="readme-typing-svg">
     </a>
 </p>
 
