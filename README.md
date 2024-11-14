@@ -1,7 +1,3 @@
-## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinagalevska&theme=dark&show_icons=true&layout=compact&langs_count=7) <br> 
-
-
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,docker,kubernetes,c,cpp,js,react,html,css,tensorflow,pytorch,kafka,java,bootstrap,tailwind,git,jenkins,spring,django,azure,anaconda,bash,gcp,gitlab,git,gradle,latex,terraform&perline=7)](https://skillicons.dev)
