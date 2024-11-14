@@ -1,5 +1,3 @@
-<img src="https://github.com/aenq/aenq/blob/main/welcome-black-min.gif" alt="Welcome">
-
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,docker,kubernetes,c,cpp,js,react,html,css,tensorflow,pytorch,kafka,java,bootstrap,tailwind,git,jenkins,spring,django,azure,anaconda,bash,gcp,gitlab,git,gradle,latex,terraform&perline=7)](https://skillicons.dev)
@@ -14,7 +12,8 @@
 
 <p align="left">
   <a href="https://github.com/dinagalevska?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/Explore%20My%20Repos-FF5C8D?style=for-the-badge&logo=github&logoColor=white&color=gradient&labelColor=FF416C"/>
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/Explore%20My%20Repos-FF5C8D?style=for-the-badge&logo=github&logoColor=white&color=gradient&labelColor=FF4F8B"/>
   </a>
 </p>
+
 
