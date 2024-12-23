@@ -6,16 +6,16 @@
 
 <p align="left">
     <a href="https://github.com/dinagalevska/recipes-chat-bot">
-        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=recipes-chat-bot&theme=react&bg_color=1F222E&show_icons=true&title_color=F85D7F&hide_border=true" alt="readme-typing-svg">
+        <img width="22%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=recipes-chat-bot&theme=react&bg_color=1F222E&show_icons=true&title_color=F85D7F&hide_border=true" alt="readme-typing-svg">
     </a>
     <a href="https://github.com/dinagalevska/cryptocurrency-insights">
-        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dinagalevska&repo=cryptocurrency-insights&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&show_icons=true" alt="custom-icon-badges">
+        <img width="22%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dinagalevska&repo=cryptocurrency-insights&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&show_icons=true" alt="custom-icon-badges">
     </a>
     <a href="https://github.com/dinagalevska/DrugCombDeepLearning">
-        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=DrugCombDeepLearning&theme=react&bg_color=1F222E&show_icons=true&title_color=F85D7F&hide_border=true" alt="readme-typing-svg">
+        <img width="22%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=DrugCombDeepLearning&theme=react&bg_color=1F222E&show_icons=true&title_color=F85D7F&hide_border=true" alt="readme-typing-svg">
     </a>
     <a href="https://github.com/dinagalevska/StreamSonic">
-        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=StreamSonic&theme=react&bg_color=1F222E&show_icons=true&title_color=F85D7F&hide_border=true&cache_seconds=1800" alt="readme-typing-svg">
+        <img width="22%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=StreamSonic&theme=react&bg_color=1F222E&show_icons=true&title_color=F85D7F&hide_border=true&cache_seconds=1800" alt="readme-typing-svg">
     </a>
 </p>
 
