@@ -15,7 +15,7 @@
         <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=DrugCombDeepLearning&theme=react&bg_color=1F222E&show_icons=true&title_color=F85D7F&hide_border=true" alt="readme-typing-svg">
     </a>
     <a href="https://github.com/dinagalevska/StreamSonic">
-        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=StreamSonic&theme=react&bg_color=1F222E&show_icons=true&title_color=F85D7F&hide_border=true" alt="readme-typing-svg">
+        <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dinagalevska&repo=StreamSonic&theme=react&bg_color=1F222E&show_icons=true&title_color=F85D7F&hide_border=true&cache_seconds=1800" alt="readme-typing-svg">
     </a>
 </p>
 
